@@ -1,0 +1,1 @@
+Next.js提供了基于React的简单通用JavaScript框架
